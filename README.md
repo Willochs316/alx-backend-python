@@ -1,3 +1,3 @@
 # alx-backend-python
 
-The project is a Python backend for learning backend development with Python
+The purpose of this project is to provide a learning resource for backend development with Python, specifically by implementing a Python backend system.
